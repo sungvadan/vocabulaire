@@ -21,5 +21,8 @@ borrow 			| emprunter
 misplace		| mal placer
 permit 			| pəˈmɪt/
 repay			| rembourser
-
-
+track of time 	| la notion du temps
+struggle		| avoir du mal 
+usual			| habituelle
+frustrate		| It was frustrating for Aneesh.  /frʌˈstreɪt/
+obvious			| évident I was obvious
