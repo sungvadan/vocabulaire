@@ -12,3 +12,5 @@ manslaughter| homicide involontaire
 robbery		| vol
 plagiarism  |  /ˈpleɪdʒəˌrɪzəm/ plagiat (an cap vat)
 deserve		| mériter
+borrower	| emprunteur
+
