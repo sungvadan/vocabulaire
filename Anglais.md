@@ -26,3 +26,4 @@ struggle		| avoir du mal
 usual			| habituelle
 frustrate		| It was frustrating for Aneesh.  /frʌˈstreɪt/
 obvious			| évident I was obvious
+trip			| faire trébucher
