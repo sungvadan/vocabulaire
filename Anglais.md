@@ -27,3 +27,9 @@ usual			| habituelle
 frustrate		| It was frustrating for Aneesh.  /frʌˈstreɪt/
 obvious			| évident I was obvious
 trip			| faire trébucher
+thread			| fil
+school report	| bulletin de notes
+opponent		| adversaire
+relegate		| loại bỏ, bỏ xó, bỏ riêng ra
+referee			| arbitre
+thrash			| frapper violemment. Battre à plate couture
