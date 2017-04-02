@@ -33,3 +33,4 @@ opponent		| adversaire
 relegate		| loại bỏ, bỏ xó, bỏ riêng ra
 referee			| arbitre
 thrash			| frapper violemment. Battre à plate couture
+stubborn		| têtu
