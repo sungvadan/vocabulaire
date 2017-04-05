@@ -5,6 +5,7 @@ Advisor 				| conseiller
 Beg 					| supplier (I beg you: je t'en supplie)
 Bribery					| persuasion through money
 demotion				| (relegation to lower position)	rétrogradation
+						| The officer was humiliated by his demotion.
 expel					| Dégager, rejeter
 hijack					| détourner chặn xe cộ để cướp 
 intimidating			| intimider
