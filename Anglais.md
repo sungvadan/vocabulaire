@@ -23,7 +23,7 @@ misplace				| mal placer
 permit 					| pəˈmɪt/
 repay					| rembourser
 track of time 			| la notion du temps
-struggle				| avoir du mal 
+struggle				| avoir du mal 	(I still struggle with driving in the right side of the car.)
 usual					| habituelle
 frustrate				| It was frustrating for Aneesh.  /frʌˈstreɪt/
 obvious					| évident I was obvious
