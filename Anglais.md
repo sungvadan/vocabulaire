@@ -5,6 +5,7 @@ Advisor 				| conseiller
 Beg 					| supplier (I beg you: je t'en supplie)
 Bribery					| persuasion through money
 demotion				| (relegation to lower position)	rétrogradation
+demotion				| The officer was humiliated by his demotion.
 expel					| Dégager, rejeter
 hijack					| détourner chặn xe cộ để cướp 
 intimidating			| intimider
@@ -22,7 +23,7 @@ misplace				| mal placer
 permit 					| pəˈmɪt/
 repay					| rembourser
 track of time 			| la notion du temps
-struggle				| avoir du mal 
+struggle				| avoir du mal 	(I still struggle with driving in the right side of the car.)
 usual					| habituelle
 frustrate				| It was frustrating for Aneesh.  /frʌˈstreɪt/
 obvious					| évident I was obvious
