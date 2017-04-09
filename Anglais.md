@@ -51,3 +51,12 @@ widow	widowed			| veuve
 Get him to do it 		| I’ll get him to visit you. I’m getting a plumber to fix this leak. 
 Get him to do it 		| She didn’t get me to say anything.
 stew					| ragoût
+by tommorrow			| the project can't be finish by tommorrow
+lay off					| licencier
+strive					| faire tout son possible
+throughout				| tout au long, à travers
+I'm planing to start	| phrase
+mean 					| méchant ( if you have mean things to say we dont want to hear them )
+delay by a delay 		| delay
+trade-off		 		| échange (trade [sth] off for )
+down the street			| that you are down the street from my appartment
