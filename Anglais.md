@@ -44,7 +44,7 @@ bride and groom 		| woman and man on their wedding day
 gave birth to a baby	| enfanter, donner naissance
 sink					| lavabo, evier
 present					|  /ˈprɛzənt/
-it's best not to ...	|
+it's best not to ...	| a sentence
 bleep					| bip
 documentary				| /ˌdɒkjʊˈmɛntərɪ/
 showcase				| vitrine, mettre en valeur 
@@ -61,3 +61,32 @@ mean 					| méchant ( if you have mean things to say we dont want to hear them 
 delay by a delay 		| delay
 trade-off		 		| échange (trade [sth] off for )
 down the street			| that you are down the street from my appartment
+bakery					| boulanger
+promote your self		| you need to promote yourself somehow 
+a bunch of 				| un ton , un tas
+apart from 				| à part de
+except for 				| i.e
+flyer					| prospectus (to quang cao)
+along with				| ainsi que
+superintendence			| surveillance
+shift					| équipe (roulement de travail). Evening shift
+lobby					| hall d'entrée
+daycare					| like babysitter
+liability				| responsabilité liability insurance
+policy					| politique
+lawsuit					| procès
+sue 					| faire un procès
+range /reɪndʒ/			| rang
+fee 					| frais
+labor					| mainoeuvre ex: cheap labor		
+downsize				| réduire les effectifs
+injured  /ˈɪndʒəd/		| blessé
+will / must 			| very sure
+should 					| quite sure
+may / could / might 	| not so sure
+will not				| 100 % sure
+couldn’t / can’t		| 99% sure
+may not / might not 	| less than 50% sure
+register  /ˈrɛdʒɪstə/	| s'inscrire
+withdrawal				| retrait
+tenant /ˈtɛnənt/		| titulaire, 	locataire
