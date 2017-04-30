@@ -64,8 +64,9 @@ down the street			| that you are down the street from my appartment
 bakery					| boulanger
 promote your self		| you need to promote yourself somehow 
 a bunch of 				| un ton , un tas
-apart from 				| à part de
-except for 				| i.e
+apart from 				| She eats all types of food apart from Indian food. 
+except for 				| I like everyone here except for Sam.
+except  				| I like everyone here except Sam.
 flyer					| prospectus (to quang cao)
 along with				| ainsi que
 superintendence			| surveillance
@@ -90,3 +91,63 @@ may not / might not 	| less than 50% sure
 register  /ˈrɛdʒɪstə/	| s'inscrire
 withdrawal				| retrait
 tenant /ˈtɛnənt/		| titulaire, 	locataire
+checking account		| compte courant
+elevator  /ˈɛlɪˌveɪtə/	| ascenseur
+In addition to things 	| Lee got a job offer at a Mcdo. In addition to this, he is getting more sick days.
+beak					| bec
+claw					| griffe
+half the year			| we only have to take care of it for half the year
+hooves					| sabots ( horse )
+pound(vi)				| frapper
+prey on/ uppon			| chasser, s'attaquer
+nest					| un nid
+hoof/hooves				| sabot
+paw						| patte, animal foot
+feather /ˈfɛðə/			| plume
+whisker /ˈwɪskə/		| barbe
+python /ˈpaɪθən/		| python
+tail 					| queue
+snout					| museau
+fur 					| poils
+hatch					| éclore
+breed (vi)				| se reproduire, sinh san
+prey					| con moi, proie
+That’s OK, but…			| exp
+That’s a great idea…	| exp
+Right, let’s do that.	| exp
+Not sure about that…	| exp
+On the one / other hand…| exp
+The (dis)advantages of…	| exp
+But if we do that…		| exp
+The upside / downside is| exp
+tricky					| difficile
+run into 				| percuter, rencontrer par hasard
+What Happened was...	| *What happened was* the printer broke down.
+What she did was		| *What she did was* quit her job.
+so 						| It was raining, *so* I got wet.
+Due to 					| Due to the rain, I got wet.
+because					| I got wet because it was raining.
+As 						| As it was raining, I got wet
+caused by 				| Getting wet was caused by the rain.
+so much					| There was *so much* rain, I got very wet.
+so many					| There were *so many* rain showers, I got very wet.
+so few					| There were *so few* places to hide, I got wet.
+I can't recall			| I can't recall where my shoes are
+it makes me depress		| exp
+drought 				| sécheresse
+hurricane				| ourange , bao
+typhoon					| typhon
+fossil					| fossile (hoa thach)
+undoubtedly				| sans aucune doute
+misunderstanding		| malentendu
+occur /əˈkɜː/			| se produire
+of the opinion			| she is of the opinion
+exp 					| four years went by quickly
+hindsight				| recul - Hindsight is always a lot clearer than your problems right now
+exp 					| you have nothing to be scare of
+mean a lot to me 		| exp
+interesting				| we found it intersting
+relief 					| soulagement
+load off  				| this is a load off my mind
+unaware					| 	ne pas savoir 
+deforestation			| deforestation
