@@ -1,0 +1,28 @@
+Mots    					  	| Définition
+---     					  	| ---
+sculpteur, la sculpture		  	| dieu khac
+Rendre hommage à quelqu'un	  	| tỏ lòng kính trọng ai
+spectaculaire				  	| gây ấn tượng mạnh, ly kỳ
+juge						  	| devant un juge
+consentement				  	| sự đồng ý, sự ưng thuận	
+pension						  	| tien tro cap
+notaire						  	| cong chung vien
+plébisciter					  	| bầu bằng đa số áp đảo
+confédération				  	| lien bang
+vitalité (nf)				  	| sức sống
+prédilection				  	| sự ưa thích đặc biệt (Avoir de la prédilection pour la peinture)
+intransigeant				  	| khong nhan nhuong co chap
+un outil concret			  	| pratical tool
+âgé d'à peine 25 ans 		  	| exp
+Un homme veut faire du cinéma	| exp
+protester						| khang nghi
+rangée							| hàng
+Tout à coup 					| Je dormais quand, tout à coup on a sonné à la porte
+Sur le coup 					| Sur le moment. Il m'a dit oui. Sur le coup j'ai été content
+Coup sur coup 					| Il a perdu son téléphone et sa montre coup sur coup(successivement)
+Après coup 						| après un événement
+Du premier coup 				| exp
+Pour le coup 					| Pour cette fois. Pour le coup, on a bien fait de prendre de l'avion
+A coup sur 						| sûrement
+Sous le coup de 				| sous l'effet de 
+D'un seul coup 					| La coutume veut que l'on vide son verre d'un seul coup
