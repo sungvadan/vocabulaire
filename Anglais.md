@@ -90,3 +90,6 @@ may not / might not 	| less than 50% sure
 register  /ˈrɛdʒɪstə/	| s'inscrire
 withdrawal				| retrait
 tenant /ˈtɛnənt/		| titulaire, 	locataire
+faucet /ˈfɔːsɪt/		| robinet
+list price				| (undiscounted, advertised cost) prix courant, prix affiché
+plan out 				| plannifier
