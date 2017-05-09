@@ -26,3 +26,23 @@ Pour le coup 					| Pour cette fois. Pour le coup, on a bien fait de prendre de 
 A coup sur 						| sûrement
 Sous le coup de 				| sous l'effet de 
 D'un seul coup 					| La coutume veut que l'on vide son verre d'un seul coup
+austérité						| sự khắc khổ
+grièvement						| grièvement blessé bị thương nặng
+austère							| khắc khổ
+bâbord							| mạn trái
+tribord							| mạn phải
+embouchure						| (nf) cửa sông
+à la que leu leu				| đi nối đuôi nhau
+pré 							| bãi cỏ
+troupeau						| đàn bãi
+trouer							| chọc thủng
+festin							| tiệc yến
+falaise							| vách đá
+pondre 							| đẻ
+ébranler						| rung, lay
+mastiquer						| nhai gặm nhấm
+litière							| rơm rác độn chuồng
+contracter						| làm co lại, kí kết
+baiser 							| hôn , (nm) cai hôn
+enfiler							| xâu
+
