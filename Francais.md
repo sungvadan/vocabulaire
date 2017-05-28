@@ -45,4 +45,18 @@ litière							| rơm rác độn chuồng
 contracter						| làm co lại, kí kết
 baiser 							| hôn , (nm) cai hôn
 enfiler							| xâu
-
+secouer							| rung lắc 
+malédiction						| lời nguyền rủa
+voûte (la)						| vom
+céleste (adj)					| ciel, vom troi  
+embarcation						| thuyền con xuồng
+ascension						| sự lên, sự trèo
+sinueux 						| khúc khuỷu quanh co
+ronronner						| gừ gừ, kêu ro ro
+évanoui							| biến mất, ngất đi
+gourdon							| hắc ín, nhựa đường
+à sa guise						| vivre à sa guise ( theo sở thích)
+tumultueusement					| náo động nhộn nhàng 
+lamentable (adj)				| thảm thương 
+solennellement					| long trọng trọng thể
+extravagance (nf)					| tính lố lăng tính ngông cuồng
