@@ -16,3 +16,10 @@ small 								| word
 medium								| word
 large								| word
 extra large							| word
+Are you ready to order ?			| exp
+Can I have the bill please			| exp
+It's a bit small 					| exp
+stall								| stand, kiosque
+torn								| déchiré
+spiky								| hérissé, piquant (hair)
+baggy								| large, ample

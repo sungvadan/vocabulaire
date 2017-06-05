@@ -59,4 +59,7 @@ gourdon							| hắc ín, nhựa đường
 tumultueusement					| náo động nhộn nhàng 
 lamentable (adj)				| thảm thương 
 solennellement					| long trọng trọng thể
-extravagance (nf)					| tính lố lăng tính ngông cuồng
+extravagance (nf)				| tính lố lăng tính ngông cuồng
+guérir							| chua 
+berner							| dieu cot
+niveau à bulles					| thuoc do
