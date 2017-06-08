@@ -63,3 +63,4 @@ extravagance (nf)				| tính lố lăng tính ngông cuồng
 guérir							| chua 
 berner							| dieu cot
 niveau à bulles					| thuoc do
+reliure							| dong gay
