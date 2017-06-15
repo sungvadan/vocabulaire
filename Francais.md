@@ -64,3 +64,7 @@ guérir							| chua
 berner							| dieu cot
 niveau à bulles					| thuoc do
 reliure							| dong gay
+le torticolis					| dau co
+déchiqueter						| xé nat 
+claquette						| dép nhua 
+liège							| bần bouchon de liège
