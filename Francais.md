@@ -67,4 +67,11 @@ reliure							| dong gay
 le torticolis					| dau co
 déchiqueter						| xé nat 
 claquette						| dép nhua 
-liège							| bần bouchon de liège
+bouchon de liège				| bần bouchon de liège
+elle s'y prend mal 				| exp
+au bain-marie					| ham cach thuy cuire au bain marie
+l'eau bout à grosse ébullition  | exp
+on peut la laisser de côté. 	| exp
+intriguer						| làm cho phải suy nghĩ, kích thích sự tò mò
+fouetter
+monter les blancs en neige		| danh trung
