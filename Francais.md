@@ -73,5 +73,5 @@ au bain-marie					| ham cach thuy cuire au bain marie
 l'eau bout à grosse ébullition  | exp
 on peut la laisser de côté. 	| exp
 intriguer						| làm cho phải suy nghĩ, kích thích sự tò mò
-fouetter
+fouetter						| danh
 monter les blancs en neige		| danh trung
