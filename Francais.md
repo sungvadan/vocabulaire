@@ -75,3 +75,4 @@ on peut la laisser de côté. 	| exp
 intriguer						| làm cho phải suy nghĩ, kích thích sự tò mò
 fouetter						| danh
 monter les blancs en neige		| danh trung
+cordon ombilical				| day ron 
