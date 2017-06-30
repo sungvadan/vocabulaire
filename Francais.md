@@ -76,3 +76,6 @@ intriguer						| làm cho phải suy nghĩ, kích thích sự tò mò
 fouetter						| danh
 monter les blancs en neige		| danh trung
 cordon ombilical				| day ron 
+piétiner						| giậm chân Piétiner de colère (nghĩa bóng) giậm chân tại chỗ, trì trệ
+piétiner						| giẫm lên. (nghĩa bóng) ngược đãi, chà đạp
+chignon							| bui toc 
