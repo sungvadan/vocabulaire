@@ -80,3 +80,4 @@ piétiner						| giậm chân Piétiner de colère (nghĩa bóng) giậm chân t
 piétiner						| giẫm lên. (nghĩa bóng) ngược đãi, chà đạp
 chignon							| bui toc 
 la monnaie sur 10				| exp
+suspensif						| đình chỉ
