@@ -81,3 +81,10 @@ piétiner						| giẫm lên. (nghĩa bóng) ngược đãi, chà đạp
 chignon							| bui toc 
 la monnaie sur 10				| exp
 suspensif						| đình chỉ
+parvis							| sân trước nhà thờ
+genèse							| sự hình thành, sự phát sinh
+pléthorique						| Qui est en trop grande quantité, en trop grand nombre ; surchargé
+exp								| L’homme qui tire plus vite que son ombre
+une tente						| lều
+Délayer 						| hòa (vào một chất lỏng)
+tournevis cruciforme			| tournevis 4 chan
