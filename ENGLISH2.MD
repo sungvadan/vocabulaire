@@ -23,3 +23,8 @@ stall								| stand, kiosque
 torn								| déchiré
 spiky								| hérissé, piquant (hair)
 baggy								| large, ample
+stockbroker							| agent de change
+auditor								| controlleur de gestion
+leaflet								| prospectus, brochure
+hire								| louer
+
